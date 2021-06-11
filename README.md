@@ -1,4 +1,4 @@
-- Only know a little bit of C++ & Python & Lua & SourcePawn
+- Only know a little bit of C++ & Python
 - Interested in game-hacking and reverse engineering but always sucks at them
 
 <!---
